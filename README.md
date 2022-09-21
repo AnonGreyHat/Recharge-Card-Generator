@@ -2,4 +2,4 @@
 
 Free recharge for all Networks in Nigeria
 
-! []https://img.shields.io/badge/Author%20-Recharge%20Generator%20-yellowgreen
+!\[my badge\](https://badgen.net/badge/hello/world/red?icon=twitter)
